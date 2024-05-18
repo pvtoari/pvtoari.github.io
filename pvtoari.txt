@@ -1,4 +1,4 @@
-<p id="ESC">Press Escape to skip the animation :^)</p>
+<p id="ESC">Press ESC to skip the animation :^)</p>
 
 <span id="a">pvtoari@Desktop</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/about_me
 <span id="a">pvtoari@Desktop</span>:<span id="b">~</span><span id="c">$</span> vim my_portfolio.txt
