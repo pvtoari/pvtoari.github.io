@@ -116,9 +116,7 @@ document.onkeydown = function (e) {
     }
 }
 
-document.addEventListener('click', function (event) {
-    if (event.target.getAttribute('id') === 'ESC') {
-        // Perform action when element with id 'ESC' is clicked
-        // Add your code here
-    }
-});
+if(window.location.hash == "#noanim") {
+    Typer.speed = 0;
+}
+
