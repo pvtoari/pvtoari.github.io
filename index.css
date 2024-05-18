@@ -1,0 +1,70 @@
+:root {
+	background-color: #000 !important;
+}
+
+body {
+	background-color: #000
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-size:14px;
+}
+
+#ESC{
+	color: grey;
+	font-style: italic;
+}
+
+#ESC:hover{
+	color: white;
+	font-style: italic;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#a {
+	color: #e489ff;
+}
+
+#c {
+	color: #0bc;
+}
+
+#b {
+	color: #ff0096;
+}
+
+
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+	0%   { opacity: 1;
+		color: #e489ff }
+	50%  { opacity: 0; }
+	100% { opacity: 1;
+		color: #e489ff }
+}
+
+#k {
+	animation: change 3.5s infinite;
+}
+
+.center-pre {
+	text-align: center;
+	display: block;
+	color: #888888;
+	font-style: italic;
+	font-weight: bold;
+}
