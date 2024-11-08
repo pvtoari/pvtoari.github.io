@@ -1,27 +1,22 @@
 <p id="ESC">Press ESC to skip the animation :^)</p>
 
-<span id="a">pvtoari@Desktop</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/about_me
-<span id="a">pvtoari@Desktop</span>:<span id="b">~</span><span id="c">$</span> vim my_portfolio.txt
+<span id="a">pvtoari@Desktop</span>:<span id="b">~</span><span id="c">$</span> cd /home/pvtoari/about
+<span id="a">pvtoari@Desktop</span>:<span id="b">~</span><span id="c">$</span> cat my_portfolio.txt
 
 <br/><br/>
 <span id="k">"Aunque las heridas de nuestro enfrentamiento ya nos presentaron, la osadía de vuestra fe nos vuelve a otorgar la oportunidad de este nuevo encuentro." </span>
 
 <br></br>
 
-Hello! I'm <span id="a">Ariel Roque</span>, a <span id="a">Java-focused programmer</span> and a <span id="a">Computer Engineering student</span>, dedicated (at the moment) to terminal-based programs and math stuff.
+Hello! I'm <span id="a">Ariel Roque</span>, a <span id="a">backend developer</span> with a strong focus on <span id="a">Java</span>, as well as experience in <span id="a">.NET</span> and <span id="a">PHP</span>. Currently, I'm advancing through my <span id="a">Computer Engineering</span> studies at the <span id="a">Universitat Politècnica de València</span>, where I've deepened my expertise in <span id="a">SaaS technologies</span> and <span id="a">backend architectures</span>.
 
-<p>Passionate about <span id="a">mathematics</span>, I find its precision and the beauty of its logic indispensable in the realm of programming. Its utility, particularly in calculations and algorithms, is a cornerstone in developing efficient and innovative software solutions.</p>
+<p><span id="a">Mathematics</span> remains a key influence in my programming journey; its precision and logical beauty continue to inspire me as I work on complex algorithms and efficient solutions. This foundation is central to my development process, helping me create software that is both innovative and effective.</p>
 
-<p>Driven by an unyielding ambition, I am steadfast in my belief that I will invent something transformative in the future. This isn't just a dream, but a goal I am actively working towards. My journey in <span id="a">Computer Engineering</span> at the <span id="a">Universitat Politècnica de València</span> is a testament to this commitment. Every line of code I write, every problem I solve, brings me one step closer to this goal. I am not just learning to program, I am programming to learn, to discover, to create. My ambition is not just vast, it's relentless. It fuels my passion, my work, and my relentless pursuit of innovation. I am not one to rest on my laurels, and I will never stop pushing the boundaries of what's possible in technology.</p>
+<p>My career path is now set on research, driven by a vision to contribute something transformative to the field of technology. This isn’t merely an aspiration but a concrete goal I am dedicated to pursuing through rigorous study and continuous project work. I am constantly pushing the limits of my knowledge and skills, whether through my involvement in <span id="a">Competitive Programming UPV</span> or my personal projects, which have grown significantly in scope and ambition.</p>
 
-<p>Currently, I am part of <span id="a">Competitive Programming UPV</span>, a group that has significantly enhanced my programming skills. For more professional information, please visit my <a href="https://linkedin.com/in/arielroque">LinkedIn page</a>.</p>
+<p>Please feel free to check out my <a href="https://linkedin.com/in/arielroque">LinkedIn</a> for a professional overview or visit my <a href="https://github.com/pvtoari">GitHub</a> to explore my latest projects. For any inquiries, don’t hesitate to reach out by <a href="mailto:arielroque@protonmail.com">email</a>.</p>
 
-<p>Feel free to also visit my <a href="https://github.com/pvtoari"> GitHub profile</a> to explore my projects and developments in greater detail.
-
-You can also give your email ID for contacting you, feel free to send me an <a href="mailto:arielroque@protonmail.com">email</a>.
-
-<p>Bye bye.</p>
-
+<p><span id="a">Bye for now!</span></p>
 
 <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 <p class="center-pre"> pvtoari </pre>                           
